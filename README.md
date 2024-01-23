@@ -1,18 +1,18 @@
-<h1 align="center">Hi there! 👋 I'm Nuno Costa</h1>
-<h3 align="center">Passionate Full Stack Developer from Portugal</h3>
+<h1 align="left">Hi there! 👋 I'm Nuno Costa</h1>
+<h3 align="left">Passionate Full Stack Developer from Portugal</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/www.linkedin.com/in/nuno-pinto-da-costa" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
 
-<h2 align="center">🚀 About Me</h2>
+<h2 align="left">🚀 About Me</h2>
 
 - 🔭 I’m currently working on [ICON Foe Sheet](https://github.com/Broasdemilho/ICON-FOE-SHEET-TEMPLATE)
 - 🌱 I’m constantly learning and exploring new technologies
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="left">🛠️ Tech Stack</h2>
 
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
