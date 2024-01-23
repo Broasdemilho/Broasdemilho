@@ -1,5 +1,5 @@
 
-<div background-image="url(https://visme.co/blog/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-046.jpg)">
+<div style="background-image: url(['img_girl.jpg'](https://visme.co/blog/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-046.jpg));">
 <h1 align="left">Hi there! 👋 I'm Nuno Costa</h1>
 <h3 align="left">Passionate Full Stack Developer from Portugal</h3>
 
